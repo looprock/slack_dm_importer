@@ -1,5 +1,5 @@
 # slack_dm_importer
-import DMs from export created by slack-history-export
+import DMs from export created by slack-history-export (https://github.com/hisabimbola/slack-history-export)
 
 If you use slack-history-export to export DMs from slack in the json format, this will allow you to populate them in a different team.
 
